@@ -195,7 +195,7 @@ The train/test split uses:
 
 ## 👩‍💻 Author
 
-**Jaye Sandra**
+**Jayani Samarakoon**
 
 Built as an academic Data Science / Machine Learning project.
 
