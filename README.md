@@ -678,22 +678,6 @@ If you have concerns about heart-attack symptoms or cardiovascular health, seek 
 
 ---
 
-## 🔗 Important Links
-
-### 🚀 Live Application
-
-[Open CardioAI](https://cardioai-heart-attack-risk-prediction-system-bwlxudsu5botmwk5e.streamlit.app/)
-
-### 💻 GitHub Repository
-
-[CardioAI GitHub Repository](https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System)
-
-### 👤 GitHub Profile
-
-[GitHub Profile](https://github.com/cit-23-02-0104-creator)
-
----
-
 ## ⭐ Support the Project
 
 If you find CardioAI useful or interesting:
