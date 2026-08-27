@@ -1,243 +1,225 @@
-<div align="center">
+# 🫀 CardioAI — Heart Attack Risk Prediction System
 
-🫀 CardioAI — Heart Attack Risk Prediction System
+## AI-Powered Cardiovascular Risk Intelligence
 
-AI-Powered Cardiovascular Risk Intelligence
+CardioAI is an end-to-end **Machine Learning + Data Science + Software Engineering** project that analyzes cardiovascular health indicators and provides an interactive, educational heart-attack risk prediction through a **Streamlit web application**.
 
-<p>
-  <strong>A modern Machine Learning + Data Science + Software Engineering project</strong><br>
-  that analyzes cardiovascular health indicators and provides an interactive,
-  educational heart-attack risk prediction through a Streamlit web application.
-</p>
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-CardioAI-ff4b4b?style=for-the-badge)](https://cardioai-heart-attack-risk-prediction-system-bwlxudsu5botmwk5e.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System)
 
-<p>
-  <a href="https://cardioai-heart-attack-risk-prediction-system-bwlxudsu5botmwk5e.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-CardioAI-ff4b4b?style=for-the-badge" alt="Live Demo">
-  </a>
-  <a href="https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.61.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-Model%20Persistence-2C3E50?style=flat-square)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-1.61.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Joblib-Model%20Persistence-2C3E50?style=flat-square">
-</p>
+---
 
-</div>
+## 🔗 Project Links
 
-🔗 Project Links
+| Resource | Link |
+|---|---|
+| 🚀 **Live Demo** | [Open CardioAI](https://cardioai-heart-attack-risk-prediction-system-bwlxudsu5botmwk5e.streamlit.app/) |
+| 💻 **GitHub Repository** | [CardioAI Repository](https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System) |
+| 👤 **GitHub Profile** | [cit-23-02-0104-creator](https://github.com/cit-23-02-0104-creator) |
+| 📥 **Clone Repository** | `git clone https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System.git` |
 
-Resource
+---
 
-Link
+## 📌 Project Overview
 
-🚀 Live Demo
+CardioAI demonstrates a complete predictive-system workflow:
 
-Open CardioAI Application
+**Raw Data → Data Preparation → Machine Learning → Model Evaluation → Prediction Application → Testing → Deployment**
 
-💻 GitHub Repository
+The system analyzes cardiovascular health-related inputs and uses a trained classification model to generate an educational heart-attack risk prediction.
 
-CardioAI-Heart-Attack-Risk-Prediction-System
+### 🎯 Project Objectives
 
-📥 Clone Repository
+- Build a practical machine-learning classification application.
+- Demonstrate a complete data-science workflow.
+- Apply software-engineering principles to project organization.
+- Develop an interactive web application.
+- Evaluate and document machine-learning model performance.
+- Deploy the completed application for public access.
+- Provide a reproducible project structure.
 
-git clone https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System.git
+> ⚠️ **Educational Use Only:** CardioAI is a machine-learning demonstration and is **not a medical diagnostic system**. Predictions must not be used for medical treatment or emergency decisions.
 
-📌 Overview
+---
 
-CardioAI is an end-to-end machine-learning application developed to demonstrate how data science, predictive modelling, and software engineering can be combined into a practical web-based system.
+## ✨ Key Features
 
-The application accepts selected cardiovascular health indicators, processes the input through a trained classification model, and presents a risk prediction together with probability-oriented insights.
+| Feature | Description |
+|---|---|
+| 🫀 **Risk Prediction** | Interactive cardiovascular risk prediction |
+| 🤖 **Machine Learning** | Trained classification model |
+| 📊 **Model Evaluation** | Accuracy, Precision, Recall, F1-score and ROC-AUC |
+| 📈 **Evaluation Visualizations** | Model comparison, correlation analysis and confusion matrices |
+| 🎨 **Modern UI** | Interactive Streamlit web interface |
+| 🧪 **Testing** | Automated project tests |
+| 📁 **Modular Architecture** | Organized data, source, model, result and test directories |
+| 🚀 **Public Deployment** | Deployed using Streamlit Community Cloud |
+| 📚 **Documentation** | Installation, execution, testing and deployment instructions |
 
-⚠️ Important: CardioAI is an educational machine-learning demonstration. It is not a medical diagnostic tool and must not be used to make medical decisions.
+---
 
-✨ Key Features
+## 🧠 Machine Learning Workflow
 
-🫀 Interactive heart-attack risk prediction interface
-
-🤖 Trained machine-learning classification model
-
-📊 Model evaluation and comparison
-
-📈 Accuracy, precision, recall, F1-score and ROC-AUC evaluation
-
-🔍 Probability-based prediction insight
-
-🎨 Modern responsive Streamlit interface
-
-🧪 Automated project tests
-
-📁 Organized data, model, source-code and results structure
-
-🚀 Public Streamlit deployment
-
-📚 Clear documentation for reproducibility
-
-🧠 Machine Learning Pipeline
-
-                    ┌──────────────────────┐
-                    │   Heart Attack Data  │
-                    │       Dataset        │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   Data Preparation   │
-                    │  Cleaning / Encoding │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Train & Evaluate     │
-                    │ Multiple ML Models   │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   Model Comparison   │
-                    │ Accuracy / ROC-AUC   │
-                    │ Recall / F1 / etc.   │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │    Best Model        │
-                    │  Logistic Regression │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   Saved .joblib      │
-                    │       Model          │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Streamlit Web App    │
-                    │     CardioAI         │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │ Educational Risk     │
-                    │     Prediction       │
-                    └──────────────────────┘
+```text
+┌─────────────────────────────┐
+│      Heart Attack Data      │
+│          Dataset            │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│      Data Preparation       │
+│    Cleaning / Encoding      │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│     Model Development       │
+│  Train Classification Models│
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│       Model Evaluation      │
+│ Accuracy / Recall / F1 /    │
+│          ROC-AUC            │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│       Model Selection       │
+│      Logistic Regression    │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│      Model Persistence      │
+│       best_model.joblib     │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│       Streamlit App         │
+│          CardioAI           │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│    Educational Prediction   │
+└─────────────────────────────┘
 
 📊 Model Performance
 
-The project evaluates multiple classification algorithms and selects the model based on the project's validation results.
+The project evaluates multiple classification algorithms using the project's validation results.
 
-Model
-
-Accuracy
-
-Precision
-
-Recall
-
-F1 Score
-
-ROC-AUC
-
-🥇 Logistic Regression
-
-84.5%
-
-36.84%
-
-66.67%
-
-47.46%
-
-86.19%
-
-Decision Tree
-
-81.5%
-
-30.00%
-
-57.14%
-
-39.34%
-
-69.29%
-
-Random Forest
-
-87.0%
-
-33.33%
-
-23.81%
-
-27.78%
-
-81.27%
-
-XGBoost
-
-89.5%
-
-50.00%
-
-19.05%
-
-27.59%
-
-80.13%
-
+Model	Accuracy	Precision	Recall	F1 Score	ROC-AUC
+🥇 Logistic Regression	84.5%	36.84%	66.67%	47.46%	86.19%
+Decision Tree	81.5%	30.00%	57.14%	39.34%	69.29%
+Random Forest	87.0%	33.33%	23.81%	27.78%	81.27%
+XGBoost	89.5%	50.00%	19.05%	27.59%	80.13%
 🏆 Selected Model
 
-Logistic Regression
+Logistic Regression is the selected model according to the project's model-selection output.
 
-The project identifies Logistic Regression as the selected prediction model according to the project's model-selection output. Its validation ROC-AUC is 86.19%, with an accuracy of 84.5%.
+Validation Results
+Accuracy: 84.5%
+Precision: 36.84%
+Recall: 66.67%
+F1 Score: 47.46%
+ROC-AUC: 86.19%
 
-Note: Accuracy alone should not be interpreted as clinical performance. The model metrics are presented for educational machine-learning evaluation.
+These metrics represent machine-learning validation performance and should not be interpreted as clinical performance.
 
 📈 Evaluation Results
 
-The repository contains visual and numerical evaluation outputs, including:
+The results/ directory contains the project's evaluation artifacts.
 
-Model comparison results
+Generated Results
+metrics.json
+model_comparison.csv
+model_comparison.png
+correlation_heatmap.png
+Confusion-matrix visualizations
 
-Confusion matrices
+These files provide evidence of model evaluation and make the development process easier to inspect and reproduce.
 
-Correlation heatmap
-
-Class distribution visualization
-
-Evaluation metrics in JSON format
-
-These artifacts make the project easier to inspect, evaluate, and reproduce.
-
-🖥️ Application
-
-The CardioAI web interface provides a structured workflow:
-
+🖥️ Application Workflow
 1. Patient Information
 
-Users enter the required health-related indicators.
+The user enters the required cardiovascular health-related values through the CardioAI interface.
 
-2. Prediction
+2. Input Processing
 
-The trained model processes the supplied values.
+The application prepares the entered values in the format required by the trained machine-learning model.
 
-3. Risk Insight
+3. Prediction
 
-The application displays the model's prediction and supporting probability information.
+The persisted model generates a classification prediction based on the supplied inputs.
 
-4. Educational Interpretation
+4. Risk Insight
 
-The result is presented as a machine-learning demonstration rather than a clinical diagnosis.
+The application displays the prediction together with probability-oriented information.
 
-🏗️ Project Architecture
+5. Educational Interpretation
 
+The result is presented as an educational machine-learning output rather than a medical diagnosis.
+
+🏗️ System Architecture
+                    ┌──────────────────┐
+                    │      User        │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │  Streamlit UI    │
+                    │     app.py       │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Prediction Logic │
+                    │  src/predict.py  │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Trained Model    │
+                    │ best_model.joblib│
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ Risk Prediction  │
+                    └──────────────────┘
+
+
+      Development / Training Pipeline
+      ────────────────────────────────
+
+ Dataset
+    │
+    ▼
+src/train.py
+    │
+    ├──► Model Training
+    │
+    ├──► Model Evaluation
+    │
+    ├──► metrics.json
+    │
+    ├──► model_comparison.csv
+    │
+    ├──► Evaluation Charts
+    │
+    └──► best_model.joblib
+📁 Project Structure
 CardioAI-Heart-Attack-Risk-Prediction-System/
 │
 ├── 📄 app.py
@@ -266,275 +248,255 @@ CardioAI-Heart-Attack-Risk-Prediction-System/
 │
 └── 📁 tests/
     └── 📄 test_project.py
-
 🧩 Project Components
-
 app.py
 
-Main Streamlit application responsible for:
+The main Streamlit application.
 
-User interface
-
-Input collection
-
-Model loading
-
-Prediction execution
-
-Result presentation
-
+Responsibilities
+Build the web interface
+Collect user inputs
+Load the trained model
+Process prediction inputs
+Generate predictions
+Display prediction results
 src/train.py
 
-Training pipeline responsible for:
+The model-training pipeline.
 
-Loading the dataset
-
-Preparing data
-
-Training classification models
-
-Comparing model performance
-
-Saving evaluation results
-
-Saving the selected trained model
-
+Responsibilities
+Load the dataset
+Prepare the data
+Train classification models
+Compare model performance
+Generate evaluation outputs
+Save the selected trained model
 src/predict.py
 
-Prediction-related functionality used to process inputs and generate model predictions.
+Handles prediction-related functionality.
 
+Responsibilities
+Prepare application inputs
+Load the trained model
+Generate model predictions
+Return prediction-related results
 models/
 
-Contains the persisted trained model used by the application.
+Stores the trained machine-learning model used by the application.
 
+models/
+└── best_model.joblib
 results/
 
-Contains machine-learning evaluation artifacts and visualizations.
+Stores numerical and visual evaluation outputs.
 
 tests/
 
-Contains automated tests for checking important project functionality.
+Contains automated tests for important project functionality.
 
 🛠️ Technology Stack
-
-Category
-
-Technology
-
-Programming Language
-
-Python
-
-Web Framework
-
-Streamlit
-
-Data Processing
-
-Pandas, NumPy
-
-Machine Learning
-
-scikit-learn, XGBoost
-
-Model Persistence
-
-Joblib
-
-Testing
-
-Python testing tools
-
-Visualization
-
-Matplotlib / project visualization libraries
-
-Version Control
-
-Git & GitHub
-
-Deployment
-
-Streamlit Community Cloud
-
+Category	Technology
+Programming Language	Python
+Web Application	Streamlit
+Data Processing	Pandas, NumPy
+Machine Learning	scikit-learn, XGBoost
+Model Persistence	Joblib
+Visualization	Matplotlib / project visualization libraries
+Testing	Pytest / Python testing tools
+Version Control	Git & GitHub
+Deployment	Streamlit Community Cloud
 ⚙️ Installation
+Prerequisites
 
-1. Clone the repository
+Before running CardioAI, install:
 
+Python 3.x
+Git
+pip
+1. Clone the Repository
 git clone https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System.git
-
-2. Open the project
-
+2. Open the Project Folder
 cd CardioAI-Heart-Attack-Risk-Prediction-System
-
-3. Create a virtual environment
-
+3. Create a Virtual Environment
 Windows
-
 python -m venv .venv
+
+Activate it:
+
 .venv\Scripts\activate
-
 macOS / Linux
-
 python3 -m venv .venv
+
+Activate it:
+
 source .venv/bin/activate
-
-4. Install dependencies
-
+4. Install Dependencies
 pip install -r requirements.txt
-
 ▶️ Run the Application
 
-If the trained model already exists:
+If models/best_model.joblib already exists:
 
 streamlit run app.py
 
-Then open the local URL shown in the terminal, normally:
+The application will normally be available at:
 
 http://localhost:8501
 
-🧠 Train the Model
+Streamlit will also display the application URL in the terminal.
 
-To reproduce the training pipeline:
+🧠 Train the Machine Learning Model
+
+To reproduce the model-training pipeline:
 
 python src/train.py
 
-This generates/updates the project's model evaluation artifacts and trained model according to the implementation in src/train.py.
-
-After training, run:
+After training completes, start the application:
 
 streamlit run app.py
 
-🧪 Run Tests
+The training workflow is implemented in:
 
-Run the project's tests with:
+src/train.py
+🧪 Testing
+
+Run the automated tests using:
 
 pytest
 
-If pytest is not installed:
+If Pytest is not installed:
 
 pip install pytest
 
+Then run:
+
+pytest
 ☁️ Deployment
 
 CardioAI is deployed using Streamlit Community Cloud.
 
-🌐 Live Application
+🚀 Live Demo
 
-🚀 Launch CardioAI Live Demo
+👉 Open CardioAI Live Application
 
-The deployed application allows users to access the prediction interface directly through a web browser without running the project locally.
+The application can be opened directly from a web browser without installing Python locally.
 
-🔄 Software Engineering Workflow
+🔄 Software Engineering Perspective
 
-This project follows a practical development workflow:
+CardioAI combines Machine Learning, Data Science and Software Engineering into one complete application.
 
-Requirement
-    ↓
-Data Collection
-    ↓
-Data Preparation
-    ↓
-Model Development
-    ↓
-Model Evaluation
-    ↓
-Model Selection
-    ↓
-Application Development
-    ↓
-Testing
-    ↓
-Version Control
-    ↓
-Deployment
-    ↓
-Maintenance / Improvement
+Requirements
 
-The repository separates application code, source modules, data, trained models, evaluation results, and tests to keep the project maintainable and easier to understand.
+The system is designed to provide an interactive cardiovascular risk-prediction application using a trained machine-learning model.
 
-📁 Repository Organization
+Modular Design
 
-The project uses a modular structure instead of placing everything inside a single Python file.
-
-Folder / File
-
-Purpose
+The project separates responsibilities into:
 
 app.py
-
-Main user-facing application
-
+src/train.py
+src/predict.py
+tests/
 data/
-
-Dataset
-
 models/
-
-Trained model artifacts
-
-src/
-
-Training and prediction modules
-
 results/
 
-Evaluation outputs
+This separation improves organization and maintainability.
 
-tests/
+Testing
 
-Automated tests
+Automated tests are included to verify important project functionality.
 
-requirements.txt
+Version Control
 
-Python dependencies
+The project uses Git and GitHub for:
 
-README.md
+Source-code version control
+Project history
+Repository management
+Documentation
+Collaboration
+Deployment
 
-Project documentation
+The application is deployed as a publicly accessible Streamlit web application.
 
-LICENSE
+Maintainability
 
-Project license
+The separation of application code, training code, data, models, results and tests makes the project easier to maintain and extend.
 
-.gitignore
-
-Git exclusions
-
+🔁 Software Development Lifecycle
+Requirements
+     │
+     ▼
+Data Collection
+     │
+     ▼
+Data Preparation
+     │
+     ▼
+Model Development
+     │
+     ▼
+Model Evaluation
+     │
+     ▼
+Model Selection
+     │
+     ▼
+Application Development
+     │
+     ▼
+Testing
+     │
+     ▼
+Version Control
+     │
+     ▼
+Deployment
+     │
+     ▼
+Maintenance & Improvement
 🔐 Reproducibility
 
-To reproduce the project locally:
+A fresh environment can reproduce the project using:
 
 git clone https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System.git
+
 cd CardioAI-Heart-Attack-Risk-Prediction-System
+
 python -m venv .venv
+
 .venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python src/train.py
+
 streamlit run app.py
 
+For macOS/Linux:
+
+source .venv/bin/activate
 🚀 Future Improvements
-
-Potential future enhancements include:
-
-🔹 Improved feature engineering
-
-🔹 Hyperparameter optimization
-
-🔹 Cross-validation and stronger model validation
-
-🔹 Explainable AI / feature-importance visualizations
-
-🔹 More detailed prediction analytics
-
-🔹 Improved accessibility and responsive UI
-
-🔹 Automated CI/CD testing
-
-🔹 Model monitoring and versioning
-
-🔹 More comprehensive test coverage
-
+Machine Learning
+ Hyperparameter optimization
+ Cross-validation
+ Advanced feature engineering
+ Additional classification algorithms
+ Explainable AI visualizations
+ Model monitoring
+Software Engineering
+ Increase automated test coverage
+ Add Continuous Integration
+ Add Continuous Deployment
+ Add model versioning
+ Improve application logging
+ Improve error handling
+User Experience
+ Improve accessibility
+ Improve responsive design
+ Add richer prediction analytics
+ Add interactive charts
+ Improve user guidance
 ⚠️ Medical Disclaimer
 
 CardioAI is strictly an educational and research-oriented machine-learning demonstration.
@@ -542,47 +504,54 @@ CardioAI is strictly an educational and research-oriented machine-learning demon
 The predictions generated by this application:
 
 are not medical diagnoses;
-
 are not a substitute for a qualified healthcare professional;
+should not be used to make treatment decisions;
+should not be used for emergency-care decisions;
+may be inaccurate because of limitations in the dataset, features, model and validation process.
 
-should not be used to make treatment or emergency-care decisions;
+If you have concerns about heart-attack symptoms or cardiovascular health, seek appropriate medical care from a qualified healthcare professional.
 
-may be inaccurate or affected by limitations in the dataset and model.
-
-If you have concerns about heart-attack symptoms or cardiovascular health, seek appropriate medical care.
-
-👩‍💻 Author
+📚 Project Information
+Project Name
 
 CardioAI — Heart Attack Risk Prediction System
 
-Developed as a practical project combining:
+Project Type
 
-Machine Learning • Data Science • Software Engineering • Web Application Development
+Machine Learning + Data Science + Software Engineering + Web Application
 
-<p align="center">
-  <a href="https://github.com/cit-23-02-0104-creator">
-    <img src="https://img.shields.io/badge/GitHub-cit--23--02--0104--creator-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
-  </a>
-</p>
+Main Technologies
 
-<div align="center">
+Python • Streamlit • Scikit-learn • Pandas • NumPy • Joblib • Git • GitHub
 
+Deployment Platform
+
+Streamlit Community Cloud
+
+🔗 Important Links
+🚀 Live Application
+
+Open CardioAI
+
+💻 GitHub Repository
+
+CardioAI GitHub Repository
+
+👤 GitHub Profile
+
+GitHub Profile
+
+⭐ Support the Project
+
+If you find CardioAI useful or interesting:
+
+⭐ Star the repository
+🍴 Fork the project
+🐛 Report issues
+💡 Suggest improvements
 🫀 CardioAI
+Intelligent • Interactive • Educational • Machine Learning
 
-Turning cardiovascular data into an educational machine-learning insight.
+Built with Python and Streamlit
 
-<br>
-
-<a href="https://cardioai-heart-attack-risk-prediction-system-bwlxudsu5botmwk5e.streamlit.app/">
-  <strong>🚀 Open Live Demo</strong>
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/cit-23-02-0104-creator/CardioAI-Heart-Attack-Risk-Prediction-System">
-  <strong>⭐ View on GitHub</strong>
-</a>
-
-<br><br>
-
-⭐ If you find this project useful, consider giving the repository a star!
-
-</div>
+Machine Learning • Data Science • Software Engineering
