@@ -1,4 +1,4 @@
-🫀 CardioAI --- Heart Attack Risk Prediction System
+#🫀 CardioAI --- Heart Attack Risk Prediction System
 
 <p align="center">
 
@@ -41,19 +41,19 @@ build a predictive classification system.
 
 The project combines:
 
-Machine Learning
+🧠 Machine Learning
 
-Data Science
+📊 Data Science
 
-Software Engineering
+💻 Software Engineering
 
-Software Testing
+🧪 Software Testing
 
-Web Application Development
+🌐 Web Application Development
 
-Cloud Deployment
+🚀 Cloud Deployment
 
-Technical Documentation
+📚 Technical Documentation
 
 End-to-End Workflow
 
